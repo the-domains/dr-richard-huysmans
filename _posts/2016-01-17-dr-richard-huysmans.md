@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: About Dr Richard Huysmans
-datePublished: '2016-01-17T22:58:11.492Z'
+datePublished: '2016-01-17T22:58:11.517Z'
 dateModified: '2016-01-17T22:58:05.577Z'
 title: Dr Richard Huysmans
 author: []
