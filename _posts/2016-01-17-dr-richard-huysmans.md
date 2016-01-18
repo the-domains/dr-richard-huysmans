@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: About Dr Richard Huysmans
-datePublished: '2016-01-17T22:23:34.874Z'
-dateModified: '2016-01-17T22:23:08.199Z'
+datePublished: '2016-01-17T22:52:53.857Z'
+dateModified: '2016-01-17T22:52:49.098Z'
 title: Dr Richard Huysmans
 author: []
+sourcePath: _posts/2016-01-17-dr-richard-huysmans.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-17-dr-richard-huysmans.md
-published: true
 url: dr-richard-huysmans/index.html
 _type: Article
 
