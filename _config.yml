@@ -1,0 +1,29 @@
+name: Dr Richard Huysmans
+favicon: null
+layout_spectrum: 0.08985986327752471
+typography_spectrum: 0.24404064938426018
+title: Dr Richard Huysmans
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2549296780489385
+  lightness: 0.37814518250525
+  saturation: 0.88379549770616
+  rhythmicContrast: 0.5829664482735097
+purpose: []
