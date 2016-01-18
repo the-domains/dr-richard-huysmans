@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[Dr Richard Huysmans]]></title>
         <description><![CDATA[Dr Richard Huysmans]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dr-richard-huysmans/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 22:23:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 22:52:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dr-richard-huysmans/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dr Richard Huysmans]]></title>
             <description><![CDATA[<article><h1>Dr Richard Huysmans</h1><p>Richard
@@ -16,9 +16,9 @@ their full potential. He has been making the impossible possible for
 clients in research, health and education for more than seven years. His
  clients appreciate his cut-through approach. He knows the sector and 
 how to turn ideas into reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6bea6918a91acc9f875d53bb7e6cbd054a66637.jpg"></article>]]></description>
-            <link>undefineddr-richard-huysmans/index.html</link>
+            <link>https://thegrid.ai/dr-richard-huysmans/dr-richard-huysmans/index.html</link>
             <guid isPermaLink="false">ac592b69-4cb6-4506-b7ea-666b0bdcee59</guid>
-            <pubDate>Sun, 17 Jan 2016 22:23:34 GMT</pubDate>
+            <pubDate>Sun, 17 Jan 2016 22:52:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
