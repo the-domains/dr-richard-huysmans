@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: About Dr Richard Huysmans
-datePublished: '2016-01-17T23:04:36.804Z'
-dateModified: '2016-01-17T23:04:36.696Z'
+datePublished: '2016-01-17T23:05:16.662Z'
+dateModified: '2016-01-17T23:04:37.460Z'
 title: Dr Richard Huysmans
 author: []
 sourcePath: _posts/2016-01-17-dr-richard-huysmans.md
