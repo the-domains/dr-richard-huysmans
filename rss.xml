@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dr Richard Huysmans]]></title>
+        <description><![CDATA[Dr Richard Huysmans]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Jan 2016 22:23:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dr Richard Huysmans]]></title>
+            <description><![CDATA[<article><h1>Dr Richard Huysmans</h1><p>Richard
+ Huysmans specialises in delivering high quality Business Analytics and 
+Management Consulting in the research, university and government 
+sectors. He is driven by the challenge of helping organisations achieve 
+their full potential. He has been making the impossible possible for 
+clients in research, health and education for more than seven years. His
+ clients appreciate his cut-through approach. He knows the sector and 
+how to turn ideas into reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6bea6918a91acc9f875d53bb7e6cbd054a66637.jpg"></article>]]></description>
+            <link>undefineddr-richard-huysmans/index.html</link>
+            <guid isPermaLink="false">ac592b69-4cb6-4506-b7ea-666b0bdcee59</guid>
+            <pubDate>Sun, 17 Jan 2016 22:23:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
