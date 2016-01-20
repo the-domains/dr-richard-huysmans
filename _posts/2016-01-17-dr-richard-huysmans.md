@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: About Dr Richard Huysmans
-datePublished: '2016-01-17T23:12:25.803Z'
-dateModified: '2016-01-17T23:12:25.594Z'
+datePublished: '2016-01-20T23:25:09.871Z'
+dateModified: '2016-01-20T23:25:04.587Z'
 title: Dr Richard Huysmans
 author: []
 sourcePath: _posts/2016-01-17-dr-richard-huysmans.md
@@ -32,6 +32,6 @@ clients appreciate his cut-through approach. He knows the sector and
 how to turn ideas into reality.
 
 Read more about the work he does on the[Raven Consulting Group website][0].
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/319a0f12-08a5-407a-8bf7-c7c47466a423.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79fc5057-be69-401a-ad2b-82e36b70b194.jpg)
 
 [0]: www.ravencg.com.au
