@@ -5,24 +5,26 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Tips for organising your next annual report
-datePublished: '2016-03-08T10:46:12.554Z'
-dateModified: '2016-03-08T10:45:39.557Z'
+description: I have written and coordinated a lot of annual reports over the years. I have seen some spectacular successes as well as cases I would rather not mention.
+datePublished: '2016-03-08T11:14:25.697Z'
+dateModified: '2016-03-08T11:14:21.145Z'
 title: Three tips for annual report writing
 author: []
+sourcePath: _posts/2016-03-08-three-tips-for-annual-report-writing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-three-tips-for-annual-report-writing.md
-published: true
 url: three-tips-for-annual-report-writing/index.html
 _type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70b2ee50-b498-491e-88b5-284265338e1f.jpg)
+
+I have written and coordinated a lot of annual reports over the years. I have seen some spectacular successes as well as cases I would rather not mention.
 
 I have written and coordinated a lot of annual reports over the years. I have seen some spectacular successes as well as cases I would rather not mention.
 
