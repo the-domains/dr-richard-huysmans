@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A white paper written by Dr Richard Huysmans on writing annual reports.
-datePublished: '2016-03-08T10:42:43.037Z'
-dateModified: '2016-03-08T10:37:04.860Z'
+datePublished: '2016-03-08T10:46:30.276Z'
+dateModified: '2016-03-08T10:42:54.816Z'
 title: Rocking Reports
 author: []
 sourcePath: _posts/2016-03-08-rocking-reports.md
