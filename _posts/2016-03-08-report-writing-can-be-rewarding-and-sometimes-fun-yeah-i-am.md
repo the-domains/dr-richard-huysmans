@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Report writing can be rewarding and sometimes fun (yeah I am a little twisted). But for those who don't like writing reports, or even those who do, there are three challenges.\_To download your FREE copy of our Annual Report writing white paper, subscribe to our newsletter."
-datePublished: '2016-03-08T22:52:43.440Z'
-dateModified: '2016-03-08T22:51:48.248Z'
+datePublished: '2016-03-08T23:09:33.583Z'
+dateModified: '2016-03-08T22:52:59.348Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-08-report-writing-can-be-rewarding-and-sometimes-fun-yeah-i-am.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-report-writing-can-be-rewarding-and-sometimes-fun-yeah-i-am.md
-published: true
 url: report-writing-can-be-rewarding-and-sometimes-fun-yeah-i-am/index.html
 _type: Article
 
