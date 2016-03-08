@@ -1,7 +1,7 @@
 name: Dr Richard Huysmans
 favicon: null
-layout_spectrum: 0.61229
-typography_spectrum: 0
+layout_spectrum: 0.25915
+typography_spectrum: 0.10886
 title: Dr Richard Huysmans
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#32a5db'
     - '#231f20'
     - '#7e7c7d'
-  brandStrength: 0.25
+  brandStrength: 0
   lightness: 1
-  saturation: 1
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
