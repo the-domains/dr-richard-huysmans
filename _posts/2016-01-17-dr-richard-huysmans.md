@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: About Dr Richard Huysmans
-datePublished: '2016-01-20T23:25:09.892Z'
-dateModified: '2016-01-20T23:25:04.587Z'
+datePublished: '2016-03-08T10:26:58.140Z'
+dateModified: '2016-03-08T10:26:38.062Z'
 title: Dr Richard Huysmans
 author: []
 sourcePath: _posts/2016-01-17-dr-richard-huysmans.md
@@ -22,6 +22,8 @@ url: dr-richard-huysmans/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ce0634c-95b3-443e-8843-e8f8fdbc2f4f.png)
+
 Richard
 Huysmans specialises in delivering high quality Business Analytics and 
 Management Consulting in the research, university and government 
