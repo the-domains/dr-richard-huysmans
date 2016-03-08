@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Over the years you have worked with us on various projects and proposals. Here are six areas (and more than 10 projects) that you probably don’t know about.
-datePublished: '2016-03-08T10:58:38.120Z'
-dateModified: '2016-03-08T10:58:32.773Z'
+datePublished: '2016-03-08T22:53:43.237Z'
+dateModified: '2016-03-08T11:25:03.106Z'
 title: 5 Projects you did not know Richard was involved in
 author: []
 sourcePath: _posts/2016-03-08-over-the-years-you-have-worked-with-us-on-various-projects-a.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: over-the-years-you-have-worked-with-us-on-various-projects-a/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28a13fc4-058f-45d5-8e06-f1b6884dfee7.jpg)
