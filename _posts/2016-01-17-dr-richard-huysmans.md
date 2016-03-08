@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: About Dr Richard Huysmans
-datePublished: '2016-03-08T10:30:04.093Z'
-dateModified: '2016-03-08T10:29:49.515Z'
+datePublished: '2016-03-08T10:42:20.702Z'
+dateModified: '2016-03-08T10:37:25.068Z'
 title: Dr Richard Huysmans
 author: []
 sourcePath: _posts/2016-01-17-dr-richard-huysmans.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: dr-richard-huysmans/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85348323-3bee-4da5-83d7-fb0f86518844.jpg)
