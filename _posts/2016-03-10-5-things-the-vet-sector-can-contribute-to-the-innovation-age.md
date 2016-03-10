@@ -5,24 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-10T11:32:34.225Z'
-dateModified: '2016-03-10T11:32:20.671Z'
+description: "So, the\_innovation agenda\_has been released. If you’re not in business, university, or research you are probably wondering what it means for you. But, if innovation is about improving something with a new idea or procedure or to produce a product using a new or better way, it is essential our entire economy (not just parts of it) are involved to ensure diverse perspectives are brought to the problems we face. BUT TAFE (Technical and Further Education) and the Vocational Education and Training (VET) sector more broadly are not mentioned once in the statement even though there are 10s, if not 100s organisations in this sector."
+datePublished: '2016-03-10T12:00:26.286Z'
+dateModified: '2016-03-10T11:51:10.443Z'
 title: 5 Things the VET sector can contribute to the innovation agenda
 author: []
+sourcePath: _posts/2016-03-10-5-things-the-vet-sector-can-contribute-to-the-innovation-age.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-5-things-the-vet-sector-can-contribute-to-the-innovation-age.md
-published: true
 url: 5-things-the-vet-sector-can-contribute-to-the-innovation-age/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40d8bda6-a31b-4166-857f-a2a457a3844d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/956084e595974283f85ad68b5189c9ea924b42af.jpg)
 
 So, the innovation agenda has been released. If you're not in business, university, or research you are probably wondering what it means for you. But, if innovation is about improving something with a new idea or procedure or to produce a product using a new or better way, it is essential our entire economy (not just parts of it) are involved to ensure diverse perspectives are brought to the problems we face. BUT TAFE (Technical and Further Education) and the Vocational Education and Training (VET) sector more broadly are not mentioned once in the statement even though there are 10s, if not 100s organisations in this sector.
 
