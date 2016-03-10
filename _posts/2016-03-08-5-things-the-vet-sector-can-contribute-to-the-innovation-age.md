@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "So, the\_innovation agenda\_has been released. If you’re not in business, university, or research you are probably wondering what it means for you. But, if innovation is about improving something with a new idea or procedure or to produce a product using a new or better way, it is essential our entire economy (not just parts of it) are involved to ensure diverse perspectives are brought to the problems we face. BUT TAFE (Technical and Further Education) and the Vocational Education and Training (VET) sector more broadly are not mentioned once in the statement even though there are 10s, if not 100s organisations in this sector."
-datePublished: '2016-03-10T10:37:23.706Z'
-dateModified: '2016-03-10T10:30:58.115Z'
+datePublished: '2016-03-10T10:46:59.454Z'
+dateModified: '2016-03-10T10:45:42.859Z'
 title: 5 things the VET sector can contribute to the Innovation Agenda
 author: []
 sourcePath: _posts/2016-03-08-5-things-the-vet-sector-can-contribute-to-the-innovation-age.md
