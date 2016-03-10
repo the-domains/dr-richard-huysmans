@@ -1,5 +1,8 @@
+name: Dr Richard Huysmans
+favicon: null
+layout_spectrum: 0.7240143
+typography_spectrum: 0.13584
 title: Dr Richard Huysmans
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5537634
-  brandStrength: 1
-  lightness: 0.5089605
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#378BBE'
     - '#5F5F5F'
     - '#1F1F1F'
+  brandStrength: 0.5
+  lightness: 0.5089605
+  saturation: 0.5537634
   rhythmicContrast: 0.5322581
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Dr Richard Huysmans
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.13584
-layout_spectrum: 0.7240143
+purpose: []
