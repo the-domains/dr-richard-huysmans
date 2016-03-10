@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'So, once you know you have an annual report due, what should you do? Where do you start?To download your FREE copy of our Annual Report writing white paper, subscribe to our newsletter.'
-datePublished: '2016-03-08T22:54:48.151Z'
-dateModified: '2016-03-08T22:54:26.749Z'
+datePublished: '2016-03-10T10:37:24.244Z'
+dateModified: '2016-03-10T10:34:58.884Z'
 title: Three tips for annual report writing
 author: []
 sourcePath: _posts/2016-03-08-three-tips-for-annual-report-writing.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: three-tips-for-annual-report-writing/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70b2ee50-b498-491e-88b5-284265338e1f.jpg)
@@ -28,7 +28,7 @@ I have written and coordinated a lot of annual reports over the years. I have se
 
 I have written and coordinated a lot of annual reports over the years. I have seen some spectacular successes as well as cases I would rather not mention.
 
-So, once you know you have an annual report due, what should you do? Where do you start?[To download your FREE copy of our Annual Report writing white paper, subscribe to our newsletter][0].
+So, once you know you have an annual report due, what should you do? Where do you start? [To download your FREE copy of our Annual Report writing white paper, subscribe to our newsletter][0].
 
 Ideally, you should start with a **timeline**, knowing when the report is due. If there is not a specific due date, then know when you would like the report complete. Work backwards from there to understand what needs to be done when between now and the due date.
 
