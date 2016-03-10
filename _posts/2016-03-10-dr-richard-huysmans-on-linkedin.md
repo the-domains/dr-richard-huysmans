@@ -16,20 +16,20 @@ keywords:
   - huysmans
   - amp
 description: "Richard's LinkedIn profile. Connect with him to get in touch."
-datePublished: '2016-03-10T23:37:50.305Z'
-dateModified: '2016-03-10T23:37:37.585Z'
+datePublished: '2016-03-10T23:45:15.482Z'
+dateModified: '2016-03-10T23:45:05.863Z'
 author: []
 related: []
 app_links: []
 title: Dr Richard Huysmans on LinkedIn
+sourcePath: _posts/2016-03-10-dr-richard-huysmans-on-linkedin.md
+published: true
 authors: []
 publisher:
   name: LinkedIn
   domain: www.linkedin.com
   url: 'http://linkedin.com'
   favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
-sourcePath: _posts/2016-03-10-dr-richard-huysmans-on-linkedin.md
-published: true
 url: dr-richard-huysmans-on-linkedin/index.html
 _context: 'http://schema.org'
 _type: MediaObject
