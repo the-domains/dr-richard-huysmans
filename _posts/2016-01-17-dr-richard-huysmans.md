@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Richard\n Huysmans specialises in delivering high quality Business Analytics and \nManagement Consulting in the research, university and government \nsectors. He is driven by the challenge of helping organisations achieve \ntheir full potential. He has been making the impossible possible for \nclients in research, health and education for more than seven years. His\n clients appreciate his cut-through approach. He knows the sector and \nhow to turn ideas into reality."
-datePublished: '2016-03-10T11:12:54.636Z'
-dateModified: '2016-03-10T11:10:36.246Z'
+datePublished: '2016-03-10T11:36:06.014Z'
+dateModified: '2016-03-10T11:35:21.069Z'
 title: Who is Dr Richard Huysmans?
 author: []
 sourcePath: _posts/2016-01-17-dr-richard-huysmans.md
@@ -22,7 +22,7 @@ url: who-is-dr-richard-huysmans/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85348323-3bee-4da5-83d7-fb0f86518844.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/132c603faa6146ae6e908bbb827a0ff28271d11e.jpg)
 
 Richard
 Huysmans specialises in delivering high quality Business Analytics and 
