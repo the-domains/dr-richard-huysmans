@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'It would be great if good annual reports were easy to write. But they are not. Worse still, most annual reports (invariably produced at great cost) are never read. This white paper covers some of the issues with compliance focused annual report writing.'
-datePublished: '2016-03-10T10:37:24.379Z'
-dateModified: '2016-03-10T10:36:41.130Z'
+description: "It would be great if good annual reports were easy to write. But they are not. Worse still, most annual reports (invariably produced at great cost) are never read. This white paper covers some of the issues with compliance focused annual report writing.\_To download your FREE copy subscribe to our newsletter. If you are already a subscriber\_send us an email\_and we'll send you a copy."
+datePublished: '2016-03-10T11:43:39.366Z'
+dateModified: '2016-03-10T11:39:57.682Z'
 title: Rocking Reports
 author: []
 sourcePath: _posts/2016-03-08-rocking-reports.md
@@ -22,7 +22,7 @@ url: rocking-reports/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bfeed57-a6df-4951-9327-e82db01c306f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ed8130c12aa20ae25d7ee078236497261120303.jpg)
 
 It would be great if good annual reports were easy to write. But they are not. Worse still, most annual reports (invariably produced at great cost) are never read. This white paper covers some of the issues with compliance focused annual report writing. [To download your FREE copy subscribe to our newsletter][0]. If you are already a subscriber [send us an email][1] and we'll send you a copy.
 
