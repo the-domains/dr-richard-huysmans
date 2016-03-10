@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "So, the\_innovation agenda\_has been released. If you’re not in business, university, or research you are probably wondering what it means for you. But, if innovation is about improving something with a new idea or procedure or to produce a product using a new or better way, it is essential our entire economy (not just parts of it) are involved to ensure diverse perspectives are brought to the problems we face. BUT TAFE (Technical and Further Education) and the Vocational Education and Training (VET) sector more broadly are not mentioned once in the statement even though there are 10s, if not 100s organisations in this sector."
-datePublished: '2016-03-08T23:10:06.626Z'
-dateModified: '2016-03-08T22:53:17.746Z'
+datePublished: '2016-03-10T10:37:23.706Z'
+dateModified: '2016-03-10T10:30:58.115Z'
 title: 5 things the VET sector can contribute to the Innovation Agenda
 author: []
 sourcePath: _posts/2016-03-08-5-things-the-vet-sector-can-contribute-to-the-innovation-age.md
@@ -19,12 +19,12 @@ publisher:
   url: null
   favicon: null
 url: 5-things-the-vet-sector-can-contribute-to-the-innovation-age/index.html
-_type: WebPage
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19f71110-8d0e-4a9b-923d-0ff33fa9e156.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87502764-dc26-4bc4-9fef-bb0721fe27c5.jpg)
 
-So, the [innovation agenda][0] has been released. If you're not in business, university, or research you are probably wondering what it means for you. But, if innovation is about improving something with a new idea or procedure or to produce a product using a new or better way, it is essential our entire economy (not just parts of it) are involved to ensure diverse perspectives are brought to the problems we face. BUT TAFE (Technical and Further Education) and the Vocational Education and Training (VET) sector more broadly are not mentioned once in the statement even though there are 10s, if not 100s organisations in this sector.
+So, the innovation agenda has been released. If you're not in business, university, or research you are probably wondering what it means for you. But, if innovation is about improving something with a new idea or procedure or to produce a product using a new or better way, it is essential our entire economy (not just parts of it) are involved to ensure diverse perspectives are brought to the problems we face. BUT TAFE (Technical and Further Education) and the Vocational Education and Training (VET) sector more broadly are not mentioned once in the statement even though there are 10s, if not 100s organisations in this sector.
 
 According to Australia.gov.au the VET sector plays a role in Apprenticeships, Arts training (in film television and radio), general practice training as well as ICT entry-level programs in government.
 
@@ -36,4 +36,4 @@ Here I five areas I reckon VET has a lead role to play in making the innovation 
 4. **STEM Literacy: **to date, STEM appears to be the domain of the university sector. Although we look to promote it in primary and secondary school, universities are seen as the purveyor of this education approach. TAFE (and VET more broadly) have a huge role to play in making clear the role STEM plays in the lives of their students and graduates. Just think of the amount of STEM builders, carpenters, plumbers, and electricians do.
 5. **Research translation: **TAFEs (and VET more broadly) are not seen as high-producers of research. Yet they should be. Everyday they work closely with industry to solve problems and these could easily be written up as research or evaluation projects. They also have access to a vast network of educators who have a huge knowledge of how to engage people from a range of socio-economic, linguistic and cultural backgrounds with preferences for a range of learning styles. They are also adept at delivering education through innovative modalities. All of this could be developed and written up with research components, and translated into other educational settings.
 
-[0]: http://www.innovation.gov.au/
+I am sure you can think of more.
