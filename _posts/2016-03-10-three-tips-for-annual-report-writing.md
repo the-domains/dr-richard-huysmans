@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: I have written and coordinated a lot of annual reports over the years. I have seen some spectacular successes as well as cases I would rather not mention.
-datePublished: '2016-03-10T11:31:02.723Z'
-dateModified: '2016-03-10T11:30:54.013Z'
+datePublished: '2016-03-10T11:50:36.309Z'
+dateModified: '2016-03-10T11:37:18.364Z'
 title: Three tips for annual report writing
 author: []
+sourcePath: _posts/2016-03-10-three-tips-for-annual-report-writing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-three-tips-for-annual-report-writing.md
-published: true
 url: three-tips-for-annual-report-writing/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3757a08f-3029-4f89-b2f7-c2ca06ce3578.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df9ddecd2303631f216f8a13c57585debf987ebd.jpg)
 
 I have written and coordinated a lot of annual reports over the years. I have seen some spectacular successes as well as cases I would rather not mention.
 
