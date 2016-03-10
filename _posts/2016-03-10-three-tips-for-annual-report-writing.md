@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: I have written and coordinated a lot of annual reports over the years. I have seen some spectacular successes as well as cases I would rather not mention.
-datePublished: '2016-03-10T11:50:36.309Z'
-dateModified: '2016-03-10T11:37:18.364Z'
+datePublished: '2016-03-10T12:00:27.002Z'
+dateModified: '2016-03-10T11:50:45.435Z'
 title: Three tips for annual report writing
 author: []
 sourcePath: _posts/2016-03-10-three-tips-for-annual-report-writing.md
