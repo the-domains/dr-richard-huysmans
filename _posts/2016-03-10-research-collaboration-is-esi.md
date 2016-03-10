@@ -5,24 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-10T10:59:26.945Z'
-dateModified: '2016-03-10T10:55:54.667Z'
+description: "Its that time of year again in Australia - our two biggest football codes have their grand finals; cars race around a track for 1000 kms; and medical researchers begin to put\_pen to paper\_for their major research grants that fall due any time between October and march the following year."
+datePublished: '2016-03-10T11:43:38.641Z'
+dateModified: '2016-03-10T11:38:41.243Z'
 title: Research Collaboration is ESI
 author: []
+sourcePath: _posts/2016-03-10-research-collaboration-is-esi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-research-collaboration-is-esi.md
-published: true
 url: research-collaboration-is-esi/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b753ca2-c6ae-4ddb-92fc-b39ed4cd83fc.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2b7797732f4499d0757426764e935c2678c8523.jpg)
 
 Its that time of year again in Australia - our two biggest football codes have their grand finals; cars race around a track for 1000 kms; and medical researchers begin to put _pen to paper _for their major research grants that fall due any time between October and march the following year.
 
