@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: Research is organic - it does not need to be planned.
-datePublished: '2016-03-10T10:59:26.328Z'
-dateModified: '2016-03-10T10:58:22.281Z'
+datePublished: '2016-03-10T11:43:38.137Z'
+dateModified: '2016-03-10T11:38:07.437Z'
 title: "Let's (not) plan"
 author: []
+sourcePath: _posts/2016-03-10-lets-not-plan.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-lets-not-plan.md
-published: true
 url: lets-not-plan/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66dec7ac-c6b4-4546-b42e-62c1bf0a3b5c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/899d62036363d18f76b1d4bb99405896e7a7a245.jpg)
 
 Research is organic - it does not need to be planned.
 
