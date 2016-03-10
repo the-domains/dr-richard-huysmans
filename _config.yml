@@ -1,6 +1,6 @@
 name: Dr Richard Huysmans
 favicon: null
-layout_spectrum: 0.7240143
+layout_spectrum: 0.99904
 typography_spectrum: 0.13584
 title: Dr Richard Huysmans
 collections:
@@ -36,6 +36,6 @@ color:
     - '#1F1F1F'
   brandStrength: 0
   lightness: 0.5089605
-  saturation: 0.5537634
+  saturation: 0.5
   rhythmicContrast: 0.5322581
 purpose: []
