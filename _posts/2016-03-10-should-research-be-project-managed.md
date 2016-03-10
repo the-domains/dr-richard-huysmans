@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Previously, I wrote about planning for research, and that the organic and meandering nature of research can discourage planning – at a range of levels. If you read\_the article\_you would be aware that I think research should be planned."
-datePublished: '2016-03-10T10:59:26.916Z'
-dateModified: '2016-03-10T10:53:23.869Z'
+datePublished: '2016-03-10T11:43:38.681Z'
+dateModified: '2016-03-10T11:38:54.832Z'
 title: Should research be project managed?
 author: []
+sourcePath: _posts/2016-03-10-should-research-be-project-managed.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-should-research-be-project-managed.md
-published: true
 url: should-research-be-project-managed/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a1a2df8-1c1a-42c3-ab6d-51e537ca371b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5834455ef9ecb6528a4772906d5afe2da47ded54.jpg)
 
 Previously, I wrote about planning for research, and that the organic and meandering nature of research can discourage planning -- at a range of levels. If you read [the article][0] you would be aware that I think research should be planned.
 
