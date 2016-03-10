@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Report writing can be rewarding and sometimes fun (yeah I am a little twisted). But for those who don't like writing reports, or even those who do, there are three challenges.\_To download your FREE copy of our Annual Report writing white paper, subscribe to our newsletter."
-datePublished: '2016-03-08T23:09:33.583Z'
-dateModified: '2016-03-08T22:52:59.348Z'
-title: ''
+datePublished: '2016-03-10T10:37:23.606Z'
+dateModified: '2016-03-10T10:31:13.094Z'
+title: Four tips for annual report writing
 author: []
 sourcePath: _posts/2016-03-08-report-writing-can-be-rewarding-and-sometimes-fun-yeah-i-am.md
 published: true
@@ -36,10 +36,10 @@ Whether you are a Head of a Lab, the Dean of a Faculty, a CEO, a project officer
 
 So, how can the challenges above be addressed? Here are four strategies:
 
-* **Read**-- familiarise yourself with reporting requirements (i.e. read the rules and requirements of the organisation you are reporting about and reporting to). People often assume their funding body will let them know. In many cases that happens. BUT you need to be aware of the overarching aims of the initiative that led to the funding. So, if even if you are funded to deliver education, the funding agency could be looking for jobs as the outcome. So be mindful that you need to cover both.
-* **Note**-- recognise when key reports are due and make provision (time and/or money) to get them done. Again, the funding body could remind you. Then again, they might send a template a week before the report is due. Put a reminder in your calendar and take action.
-* **Plan**-- to make sure you meet or beat your deadlines. Write out the basic structure of the report. Who should write what and by when. Let people know their role in advance and then remind them again when the time is right.
-* **Assign**-- make sure someone has responsibility for getting the work done and make sure they know who they are. There's no point assigning work to someone only to find they are away when it falls due. If people are assigned a role, they need to know when it should be completed.
+* **Read **-- familiarise yourself with reporting requirements (i.e. read the rules and requirements of the organisation you are reporting about and reporting to). People often assume their funding body will let them know. In many cases that happens. BUT you need to be aware of the overarching aims of the initiative that led to the funding. So, if even if you are funded to deliver education, the funding agency could be looking for jobs as the outcome. So be mindful that you need to cover both.
+* **Note **-- recognise when key reports are due and make provision (time and/or money) to get them done. Again, the funding body could remind you. Then again, they might send a template a week before the report is due. Put a reminder in your calendar and take action.
+* **Plan **-- to make sure you meet or beat your deadlines. Write out the basic structure of the report. Who should write what and by when. Let people know their role in advance and then remind them again when the time is right.
+* **Assign **-- make sure someone has responsibility for getting the work done and make sure they know who they are. There's no point assigning work to someone only to find they are away when it falls due. If people are assigned a role, they need to know when it should be completed.
 
 [To download your FREE copy of our Annual Report writing white paper, subscribe to our newsletter][0].
 
