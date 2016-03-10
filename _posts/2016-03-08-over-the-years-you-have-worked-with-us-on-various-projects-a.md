@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Over the years you have worked with us on various projects and proposals. Here are six areas (and more than 10 projects) that you probably don’t know about.
-datePublished: '2016-03-08T22:53:43.237Z'
-dateModified: '2016-03-08T11:25:03.106Z'
+datePublished: '2016-03-10T10:37:23.652Z'
+dateModified: '2016-03-10T10:33:19.835Z'
 title: 5 Projects you did not know Richard was involved in
 author: []
 sourcePath: _posts/2016-03-08-over-the-years-you-have-worked-with-us-on-various-projects-a.md
@@ -19,10 +19,10 @@ publisher:
   url: null
   favicon: null
 url: over-the-years-you-have-worked-with-us-on-various-projects-a/index.html
-_type: Blurb
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28a13fc4-058f-45d5-8e06-f1b6884dfee7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4702cca-2be3-466a-bcd9-8e46eeeb8c9a.jpg)
 
 Over the years you have worked with us on various projects and proposals. Here are six areas (and more than 10 projects) that you probably don't know about.
 
@@ -57,7 +57,7 @@ Across the years we have helped developed quality frameworks for a range of proj
 * [Research-focused MRI use][7];
 * [clinical learning environments][8] (Best Practice Clinical Learning Environment Framework, with Darcy Associates);
 * [attractive health service places to work][9] (Attractive Employer model for the Department of Health (Vic)); and
-* [a framework for simulation based education and training programs][10] (SLE Quality Framework for Simulation Programs in Australian Health Care, with Simulation Australasia and also Department of Health (Fed)). 
+* [a framework for simulation based education and training programs][10] (SLE Quality Framework for Simulation Programs in Australian Health Care, with Simulation Australasia and also Department of Health (Fed)).
 
 [0]: http://www.latrobe.edu.au/lids
 [1]: http://www.ravencg.com.au/index.php/projects/124-miccn-business-plan
