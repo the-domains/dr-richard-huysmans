@@ -4,15 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: >-
-  Richard Huysmans specialises in delivering high quality Business Analytics and
-  Management Consulting in the research, university and government sectors. He
-  is driven by the challenge of helping organisations achieve their full
-  potential. He has been making the impossible possible for clients in research,
-  health and education for more than seven years. His clients appreciate his
-  cut-through approach. He knows the sector and how to turn ideas into reality.
-datePublished: '2016-06-14T00:52:51.984Z'
-dateModified: '2016-06-14T00:51:17.615Z'
+description: And his the work he does is also on the Raven Consulting Group website.
+datePublished: '2016-06-14T01:06:27.179Z'
+dateModified: '2016-06-14T01:06:21.275Z'
 title: ''
 author:
   - name: ''
@@ -29,11 +23,13 @@ _type: WebPage
 
 Richard Huysmans specialises in delivering high quality Business Analytics and Management Consulting in the research, university and government sectors. He is driven by the challenge of helping organisations achieve their full potential. He has been making the impossible possible for clients in research, health and education for more than seven years. His clients appreciate his cut-through approach. He knows the sector and how to turn ideas into reality.
 
-He helps people interested in research (academics as well as people in R&D within corporations) to address the three biggest challenges he sees them face:
+He helps people interested in research - across sectors and organisations that include universities, research institutes, health care within R&D departments of tech, engineering and pharmaceutical corporations- to address the three greatest challenges they face:
 
-1\. Funding - obtain grants, tenders and other funds (including internal funding) to support research and development efforts.
+1. Getting funding - from grants, tenders, internal or external sources;
+2. Writing - project proposals, business/strategy/implementation plans, reports, journal articles, online; and
+3. Being relevant - to collaborators, partners, funders, stakeholders and the wider community.
 
-2\. 
+If you think he might be able to help you - get in touch via phone, email or LinkedIn.
 
 You can read his [tweets][0] here.
 
