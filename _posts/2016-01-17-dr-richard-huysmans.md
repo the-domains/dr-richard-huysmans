@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: And his the work he does is also on the Raven Consulting Group website.
-datePublished: '2016-06-14T01:24:36.285Z'
-dateModified: '2016-06-14T01:23:15.364Z'
+description: And the work he does is also on the Raven Consulting Group website.
+datePublished: '2016-06-14T01:25:18.261Z'
+dateModified: '2016-06-14T01:24:37.755Z'
 title: Dr Richard Huysmans
 author:
   - name: ''
@@ -39,12 +39,13 @@ And he's also on [LinkedIn][1].
 
 You can call him on 0412 606 178
 
-You can arrange a chat for [15][2], 30 or [60][3] minutes.
+You can arrange a chat for [15][2], [30][3] or [60][4] minutes.
 
-And his the work he does is also on the[Raven Consulting Group website][4].
+And the work he does is also on the[Raven Consulting Group website][5].
 
 [0]: https://twitter.com/RichardHuysmans
 [1]: https://www.linkedin.com/in/richardhuysmans
 [2]: https://www.timetrade.com/app/td-2610605/workflows/xxb2k/schedule/welcome?wfsid=b07a7e16-baba97f6-b07a7e11-baba97f6-00000002-ht0li2cd548atkd6fdfbo2epipo0v52g&view=full&fs=1
-[3]: https://www.timetrade.com/app/td-2610605/workflows/1h34r/schedule/welcome?wfsid=b07a7e14-baba97f6-b07a7e16-baba97f6-00000002-f5jn4trarbusboinmh7u2otsod6ha18q&view=full&fs=1
-[4]: www.ravencg.com.au
+[3]: https://www.timetrade.com/app/td-2610605/workflows/g8dqm/schedule/welcome?wfsid=b07a7e16-baba97f6-b07a7e17-baba97f6-00000002-tet3rknptvgdidpnf2ccnhvhpkohvlut&view=full&fs=1
+[4]: https://www.timetrade.com/app/td-2610605/workflows/1h34r/schedule/welcome?wfsid=b07a7e14-baba97f6-b07a7e16-baba97f6-00000002-f5jn4trarbusboinmh7u2otsod6ha18q&view=full&fs=1
+[5]: www.ravencg.com.au
