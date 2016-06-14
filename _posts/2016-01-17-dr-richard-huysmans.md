@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: And the work he does is also on the Raven Consulting Group website.
-datePublished: '2016-06-14T01:40:41.567Z'
-dateModified: '2016-06-14T01:40:33.828Z'
-title: Dr Richard Huysmans
+datePublished: '2016-06-14T01:42:30.258Z'
+dateModified: '2016-06-14T01:42:23.932Z'
+title: Who is Dr Richard Huysmans?
 author:
   - name: ''
     url: ''
