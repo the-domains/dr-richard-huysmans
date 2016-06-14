@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: And his the work he does is also on the Raven Consulting Group website.
-datePublished: '2016-06-14T01:18:13.672Z'
-dateModified: '2016-06-14T01:17:59.300Z'
+datePublished: '2016-06-14T01:23:10.588Z'
+dateModified: '2016-06-14T01:22:26.473Z'
 title: Dr Richard Huysmans
 author:
   - name: ''
@@ -23,11 +23,13 @@ _type: WebPage
 
 Richard Huysmans specialises in delivering high quality Business Analytics and Management Consulting in the research, university and government sectors. He is driven by the challenge of helping organisations achieve their full potential. He has been making the impossible possible for clients in research, health and education for more than seven years. His clients appreciate his cut-through approach. He knows the sector and how to turn ideas into reality.
 
-He helps people interested in research - across sectors and organisations that include universities, research institutes, health care within R&D departments of tech, engineering and pharmaceutical corporations- to address the three greatest challenges they face:
+He helps people interested in research - across sectors and organisations that include universities, research institutes, health care within R&D departments of tech, engineering and pharmaceutical corporations- to address the **three greatest challenges **they face:
 
-1. Getting funding - from grants, tenders, internal or external sources;
-2. Writing - project proposals, business/strategy/implementation plans, reports, journal articles, online; and
-3. Being relevant - to collaborators, partners, funders, stakeholders and the wider community.
+1\.**Getting funding** - from grants, tenders, internal or external sources;
+
+2\. **Writing** - project proposals, business/strategy/implementation plans, reports, journal articles, online; and
+
+3\. **Being relevant** - to collaborators, partners, funders, stakeholders and the wider community.
 
 If you think he might be able to help you - get in touch via phone, email or LinkedIn.
 
@@ -35,8 +37,14 @@ You can read his [tweets][0] here.
 
 And he's also on [LinkedIn][1].
 
-And his the work he does is also on the[Raven Consulting Group website][2].
+You can call him on 0412 606 178
+
+You can arrange a chat for [15][2], 30 or [60][3] minutes.
+
+And his the work he does is also on the[Raven Consulting Group website][4].
 
 [0]: https://twitter.com/RichardHuysmans
 [1]: https://www.linkedin.com/in/richardhuysmans
-[2]: www.ravencg.com.au
+[2]: https://www.timetrade.com/app/td-2610605/workflows/xxb2k/schedule/welcome?wfsid=b07a7e16-baba97f6-b07a7e11-baba97f6-00000002-ht0li2cd548atkd6fdfbo2epipo0v52g&view=full&fs=1
+[3]: https://www.timetrade.com/app/td-2610605/workflows/1h34r/schedule/welcome?wfsid=b07a7e14-baba97f6-b07a7e16-baba97f6-00000002-f5jn4trarbusboinmh7u2otsod6ha18q&view=full&fs=1
+[4]: www.ravencg.com.au
