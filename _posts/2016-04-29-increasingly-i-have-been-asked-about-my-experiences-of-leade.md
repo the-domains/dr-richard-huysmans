@@ -4,11 +4,19 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Increasingly I have been asked about my experiences of leadership in research and what I see as options for leadership in research - particularly for PhD students and also in the context of increasing competition for grant funding. I reckon there are at least five (maybe more) leadership options for researchers. And I think all of them have their own nuances but also are based on three things.
-datePublished: '2016-04-29T03:11:38.948Z'
-dateModified: '2016-04-29T03:10:55.410Z'
+description: >-
+  Increasingly I have been asked about my experiences of leadership in research
+  and what I see as options for leadership in research - particularly for PhD
+  students and also in the context of increasing competition for grant funding.
+  I reckon there are at least five (maybe more) leadership options for
+  researchers. And I think all of them have their own nuances but also are based
+  on three things.
+datePublished: '2016-06-14T01:02:06.376Z'
+dateModified: '2016-04-29T03:13:47.476Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-04-29-increasingly-i-have-been-asked-about-my-experiences-of-leade.md
 authors: []
 publisher:
   name: null
@@ -16,8 +24,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-29-increasingly-i-have-been-asked-about-my-experiences-of-leade.md
-published: true
 url: increasingly-i-have-been-asked-about-my-experiences-of-leade/index.html
 _type: Article
 
