@@ -1,25 +1,31 @@
 ---
+datePublished: '2016-06-15T00:30:44.779Z'
+sourcePath: _posts/2016-01-17-dr-richard-huysmans.md
 inFeed: false
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: And the work he does is also on the Raven Consulting Group website.
-datePublished: '2016-06-15T00:29:25.705Z'
-dateModified: '2016-06-14T06:19:36.014Z'
-title: Who is Dr Richard Huysmans?
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-01-17-dr-richard-huysmans.md
-authors: []
+dateModified: '2016-06-15T00:30:35.661Z'
+title: Who is Dr Richard Huysmans?
 publisher: null
+description: >-
+  Richard Huysmans specialises in delivering high quality Business Analytics and
+  Management Consulting in the research, university and government sectors. He
+  is driven by the challenge of helping organisations achieve their full
+  potential. He has been making the impossible possible for clients in research,
+  health and education for more than seven years. His clients appreciate his
+  cut-through approach. He knows the sector and how to turn ideas into reality.
+inLanguage: null
+inNav: true
 starred: false
 url: who-is-dr-richard-huysmans/index.html
 _type: WebPage
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/132c603faa6146ae6e908bbb827a0ff28271d11e.jpg)
+![Dr Richard Huysmans](https://s3-us-west-2.amazonaws.com/the-grid-img/p/132c603faa6146ae6e908bbb827a0ff28271d11e.jpg)
 
 Richard Huysmans specialises in delivering high quality Business Analytics and Management Consulting in the research, university and government sectors. He is driven by the challenge of helping organisations achieve their full potential. He has been making the impossible possible for clients in research, health and education for more than seven years. His clients appreciate his cut-through approach. He knows the sector and how to turn ideas into reality.
 
