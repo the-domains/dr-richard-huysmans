@@ -2,8 +2,8 @@
 description: >-
   Despite all of the election speak, we are still trying to transition to an
   innovation economy.
-dateModified: '2016-07-13T01:14:13.025Z'
-datePublished: '2016-07-13T01:14:36.981Z'
+dateModified: '2016-07-13T01:16:37.888Z'
+datePublished: '2016-07-13T01:17:38.867Z'
 title: >-
   How to find industry, government, corporate or not-for-profit research
   partners
