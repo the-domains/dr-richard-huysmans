@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-07-26T00:35:48.492Z'
+datePublished: '2016-07-26T00:37:51.999Z'
+sourcePath: _posts/2016-07-26-can-your-collaboration-survive-an-emergency.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/17e6a9a2-579f-4570-9372-357088f3cfb6.jpg
 author: []
 via: {}
-dateModified: '2016-07-26T00:35:39.864Z'
+dateModified: '2016-07-26T00:37:51.345Z'
 title: Can your collaboration survive an emergency?
 publisher: {}
 description: >-
@@ -12,7 +13,6 @@ description: >-
   works at the start, but as time progresses does it limit a collaborations’
   success or its ability to survive an emergency?
 starred: false
-sourcePath: _posts/2016-07-26-can-your-collaboration-survive-an-emergency.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -20,7 +20,7 @@ _type: MediaObject
 
 ---
 # Can your collaboration survive an emergency?
-![Can your collaboration survive an emergency](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b5f2bccf7770455ae98bd0d7582db4bb/croprotate.jpg?cropheight=533&cropwidth=475&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F17e6a9a2-579f-4570-9372-357088f3cfb6.jpg&x=152&y=0)
+![Can your collaboration survive an emergency](https://s3-us-west-2.amazonaws.com/the-grid-img/p/63285a7ac954af2858b7e8e31c5d33c4e5dac736.jpg)
 
 In collaborations, often specific people are allocated specific roles. This works at the start, but as time progresses does it limit a collaborations' success or its ability to survive an emergency?
 
