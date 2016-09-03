@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-26T00:37:51.999Z'
+datePublished: '2016-09-01T00:33:15.021Z'
 sourcePath: _posts/2016-07-26-can-your-collaboration-survive-an-emergency.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/17e6a9a2-579f-4570-9372-357088f3cfb6.jpg
 author: []
 via: {}
-dateModified: '2016-07-26T00:37:51.345Z'
+dateModified: '2016-09-01T00:33:14.181Z'
 title: Can your collaboration survive an emergency?
 publisher: {}
 description: >-
@@ -20,7 +20,7 @@ _type: MediaObject
 
 ---
 # Can your collaboration survive an emergency?
-![Can your collaboration survive an emergency](https://s3-us-west-2.amazonaws.com/the-grid-img/p/63285a7ac954af2858b7e8e31c5d33c4e5dac736.jpg)
+![Can your collaboration survive an emergency?](https://s3-us-west-2.amazonaws.com/the-grid-img/p/63285a7ac954af2858b7e8e31c5d33c4e5dac736.jpg)
 
 In collaborations, often specific people are allocated specific roles. This works at the start, but as time progresses does it limit a collaborations' success or its ability to survive an emergency?
 
