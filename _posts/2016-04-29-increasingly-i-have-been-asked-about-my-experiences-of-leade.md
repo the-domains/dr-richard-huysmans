@@ -1,15 +1,18 @@
 ---
-datePublished: '2016-07-13T01:17:49.584Z'
+datePublished: '2016-09-01T00:36:24.446Z'
 sourcePath: >-
   _posts/2016-04-29-increasingly-i-have-been-asked-about-my-experiences-of-leade.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
-author: []
-dateModified: '2016-07-13T01:17:25.662Z'
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-09-01T00:36:23.283Z'
 title: ''
-publisher: null
+publisher: {}
 description: >-
   Increasingly I have been asked about my experiences of leadership in research
   and what I see as options for leadership in research - particularly for PhD
@@ -24,10 +27,11 @@ url: increasingly-i-have-been-asked-about-my-experiences-of-leade/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3df33b9-7850-405e-b183-3dc3a700926c.jpg)
+
 Increasingly I have been asked about my experiences of leadership in research and what I see as options for leadership in research - particularly for PhD students and also in the context of increasing competition for grant funding. I reckon there are at least five (maybe more) leadership _options _for researchers. And I think all of them have their own nuances but also are based on three things.
 
 First the five leadership options:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3df33b9-7850-405e-b183-3dc3a700926c.jpg)
 
 1. Technical Expert - the lone researcher as it were.
 2. Group Leader - someone who can bring a team together around their expertise. Everyone is work on the same goal, with (essentially) the same or similar research skills.
