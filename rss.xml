@@ -4,8 +4,15 @@
         <description><![CDATA[Dr Richard Huysmans]]></description>
         <link>http://drrichardhuysmans.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 00:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 00:39:20 GMT</lastBuildDate>
         <atom:link href="http://drrichardhuysmans.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Two tips grant writers will never give you]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e9fab6649f3e3db72bdeb8592c3b63b79f837db.jpg">]]></description>
+            <link>http://drrichardhuysmans.com/2d41d877-8ef3-4076-a46a-9d74ef2c79bd/index.html</link>
+            <guid isPermaLink="false">2d41d877-8ef3-4076-a46a-9d74ef2c79bd</guid>
+            <pubDate>Thu, 01 Sep 2016 00:39:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Four tips for stress free reports]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99e207210511df812f451e3c1245cf66da8a9d66.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://drrichardhuysmans.com/5-things-the-vet-sector-can-contribute-to-the-innovation-age/index.html</link>
             <guid isPermaLink="false">2fede753-da92-4e21-9541-e50e492f41e5</guid>
             <pubDate>Thu, 10 Mar 2016 12:00:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3 things that would make LinkedIn better for Research Translation]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbfb8c5c22f863869529642c4bac966b0f2a0bb2.jpg" alt="" title="">]]></description>
-            <link>http://drrichardhuysmans.com/060277f4-d8d6-458e-a7aa-8718b5cb028c/index.html</link>
-            <guid isPermaLink="false">060277f4-d8d6-458e-a7aa-8718b5cb028c</guid>
-            <pubDate>Thu, 10 Mar 2016 11:43:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
