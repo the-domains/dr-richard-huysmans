@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-13T01:17:43.245Z'
+datePublished: '2016-09-01T00:34:40.528Z'
 sourcePath: >-
   _posts/2016-06-14-video-killed-the-radio-star-but-time-killed-the-academia-co.md
 inFeed: true
@@ -7,9 +7,10 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-13T01:17:06.439Z'
+via: {}
+dateModified: '2016-09-01T00:34:39.883Z'
 title: ''
-publisher: null
+publisher: {}
 description: >-
   Increasingly I’m working at the academia-industry/corporate interface. That
   could be helping researchers find industry/corporate collaborators or
@@ -23,8 +24,9 @@ url: video-killed-the-radio-star-but-time-killed-the-academia-co/index.html
 _type: Article
 
 ---
-Increasingly I'm working at the academia-industry/corporate interface. That could be helping researchers find industry/corporate collaborators or vice-versa; delivering training programs about working with industry (or university); or providing career advice. In a recent review, the juxtaposition of academia and industry was made stark.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53179189-1b35-4610-9d69-43ff7cdc95a2.jpg)
+
+Increasingly I'm working at the academia-industry/corporate interface. That could be helping researchers find industry/corporate collaborators or vice-versa; delivering training programs about working with industry (or university); or providing career advice. In a recent review, the juxtaposition of academia and industry was made stark.
 
 The differences between academia and industry are highlighted many times and oft. There are many articles about transitioning between academia and industry (usually focusing on going from academia to industry) -- as if it is not possible to successfully and regularly move between the two. Then, for those who make the transition (academia to industry) they are often referred to as _moving to the dark side._
 
