@@ -1,23 +1,23 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: Research is organic - it does not need to be planned.
-datePublished: '2016-03-10T11:43:38.137Z'
-dateModified: '2016-03-10T11:38:07.437Z'
-title: "Let's (not) plan"
-author: []
+datePublished: '2016-09-01T00:37:27.227Z'
 sourcePath: _posts/2016-03-10-lets-not-plan.md
-published: true
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-09-01T00:37:26.344Z'
+title: ''
 publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+  name: ''
+  url: ''
+description: Research is organic - it does not need to be planned.
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: lets-not-plan/index.html
 _type: Article
 
@@ -45,11 +45,9 @@ If you're up for it, I then suggest writing a plan in response to each. Thus:
 Together, they will help ensure you start off on a pathway to success.
 
 This is summarised below.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ac336ec-dd27-4aa5-b18d-7c5cebe198a4.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0f94cc13c082a878ed031828b0e04c1735d95ca.png)
 
-__
-
-_Raven Consulting Group specialises in delivering high quality Business Analytics and Management Consulting in the research, university and government sectors. __Richard __is driven by the challenge of helping organisations achieve their full potential. He has been making the impossible possible for clients in the research, health and education for more than seven years. His clients appreciate his cut-through approach. He knows the sector and how to turn ideas into reality. To find out more, call 0412 606 178, email (_Richard_[.huysmans@ravencg.com.au][0]) or[subscribe to our newsletter.][1]_
+_Raven Consulting Group specialises in delivering high quality Business Analytics and Management Consulting in the research, university and government sectors. Richard is driven by the challenge of helping organisations achieve their full potential. He has been making the impossible possible for clients in the research, health and education for more than seven years. His clients appreciate his cut-through approach. He knows the sector and how to turn ideas into reality. To find out more, call 0412 606 178, email (_Richard_[.huysmans@ravencg.com.au][0]) or[subscribe to our newsletter.][1]_
 
 [0]: mailto:Richard.huysmans@ravencg.com.au
 [1]: http://www.ravencg.com.au/index.php/news
