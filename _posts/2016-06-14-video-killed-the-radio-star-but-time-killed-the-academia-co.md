@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T00:34:40.528Z'
+datePublished: '2016-09-01T00:35:04.712Z'
 sourcePath: >-
   _posts/2016-06-14-video-killed-the-radio-star-but-time-killed-the-academia-co.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T00:34:39.883Z'
+dateModified: '2016-09-01T00:35:04.027Z'
 title: ''
 publisher: {}
 description: >-
